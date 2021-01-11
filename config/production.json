@@ -1,5 +1,5 @@
 {
-    "mongoURI":"mongodb+srv://chahat:chahat@cluster0.kpgns.mongodb.net/reactsocial?retryWrites=true&w=majority",
+    "mongoURI":<yoururl>,
     "jwtSecret":"mysecrettoken",
     "githubClientId":"8cd9754f70b8d0ac1862",
     "githubSecret":"3427ee6b72985ac2c99889066e4ea32b3ee0a66c"
